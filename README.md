@@ -11,5 +11,9 @@ Flask - HTML/CSS - Python
 **What I'm learning 🌱**
 SQL - Typescript
 
+**Cool projects I've collaborated on 🤝**
 
-### Check out my projects below!
+[EcoScan - Madhacks 2024](https://github.com/youjaepark/EcoScan)
+
+
+### Check out my personal projects below!
