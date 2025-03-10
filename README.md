@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**ShadTheShadow/ShadTheShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS|DS student at UW-Madison looking to learn and improve at coding!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My technologies 🧙**
+Java - C# - Javascript
+Flask - HTML/CSS - Python
+
+**What I'm learning 🌱**
+SQL - Typescript
+
+### Check out my projects below!
