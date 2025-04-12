@@ -16,6 +16,6 @@ SQL - VBA - TypeScript
 
 **What I'm currently working on 🛠️**
 
-[EcoScan - Madhacks 2024](https://github.com/ShadTheShadow/SQLTrain)
+[SQLTrain🚂](https://github.com/ShadTheShadow/SQLTrain)
 
 ### Check out my personal projects below!
