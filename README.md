@@ -4,15 +4,18 @@ I'm a CS|DS student at UW-Madison looking to learn and improve at coding!
 
 
 **My technologies 🧙**
-Java - C# - Javascript - Flask - HTML/CSS - Python - R
+Java - C# - JavaScript - Flask - HTML/CSS - Python - R
 
 
 **What I'm learning 🌱**
-SQL - Typescript - VBA
+SQL - VBA - TypeScript
 
 **Cool projects I've collaborated on 🤝**
 
 [EcoScan - Madhacks 2024](https://github.com/youjaepark/EcoScan)
 
+**What I'm currently working on 🛠️**
+
+[EcoScan - Madhacks 2024](https://github.com/ShadTheShadow/SQLTrain)
 
 ### Check out my personal projects below!
