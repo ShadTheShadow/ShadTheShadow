@@ -4,11 +4,11 @@ I'm a CS|DS student at UW-Madison looking to learn and improve at coding!
 
 
 **My technologies 🧙**
-Java - C# - JavaScript - Flask - HTML/CSS - Python - R
+Java - C# - JavaScript - SQL - VBA - Flask - HTML/CSS - Python - R
 
 
 **What I'm learning 🌱**
-SQL - VBA - TypeScript
+TypeScript
 
 **Cool projects I've collaborated on 🤝**
 
