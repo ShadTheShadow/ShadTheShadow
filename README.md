@@ -16,6 +16,6 @@ TypeScript
 
 **What I'm currently working on 🛠️**
 
-[SQLTrain🚂](https://github.com/ShadTheShadow/SQLTrain)
+[MessageClient💬]([https://github.com/ShadTheShadow/MessageClient])
 
 ### Check out my personal projects below!
