@@ -16,6 +16,6 @@ TypeScript
 
 **What I'm currently working on 🛠️**
 
-[MessageClient💬]([https://github.com/ShadTheShadow/MessageClient])
+[MessageClient💬](https://github.com/ShadTheShadow/MessageClient)
 
 ### Check out my personal projects below!
